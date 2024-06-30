@@ -1,6 +1,5 @@
 from tkinter import *
 from colorama import Fore
-#ساخت برنامه لاگین اینستاگرام و هک ان
 
 def get():
     print(Fore.GREEN,'Saved login !',Fore.RESET)
